@@ -1,0 +1,4 @@
+condition: a == 'abc' && b > 6
+then: true
+elseIfCondition: {condition: b < 11, then: true}
+elseCondition: {then: false}

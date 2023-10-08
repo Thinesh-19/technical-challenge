@@ -1,0 +1,1 @@
+{"condition":"a == 'abc' && b > 5","then":true,"elseIfCondition":{"condition":"b < 10","then":true},"elseCondition":{"then":false}}
